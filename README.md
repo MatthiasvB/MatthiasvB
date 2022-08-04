@@ -2,4 +2,4 @@
 - 👀 I’m interested in how the world works, why it does it this way, how to affect it at scale, and how to detach myself from it. That's why I studied Material's Science, read books like "Sapiens", learned programming, and work towards location independence.
 - 🌱 I’m currently learning everything around Web Development, particularly the application of the Flux pattern for highly reactive apps. Stack: Angular (RxJS, NGRX), Websocket, Express, MongoDB.
 - 💞️ I’m looking to collaborate on anything that will make our lifes easier, educate the masses, or save the planet.
-- 📫 How to reach me: matthias.vombruch<at>gmx<dot>de
+- 📫 How to reach me: matthias.vombruch-at-gmx-dot-de
